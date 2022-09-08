@@ -12,7 +12,9 @@
     "email": {
       "regexp": "#[a-z]{5,10}@[a-z]{5}\\.[a-z]{2,3}"
     },
-    "birth_day": "date",
+    "birth_date": {
+      "date": {}
+    },
     "avatarUrl": {
       "regexp": "https://i\\.pravatar\\.cc/150\\?u=[0-9]{5}"
     },
