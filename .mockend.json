@@ -13,7 +13,7 @@
       "regexp": "#[a-z]{5,10}@[a-z]{5}\\.[a-z]{2,3}"
     },
     "birth_date": {
-      "date": {}
+      "dateTime": "Y-m-d"
     },
     "avatarUrl": {
       "regexp": "https://i\\.pravatar\\.cc/150\\?u=[0-9]{5}"
